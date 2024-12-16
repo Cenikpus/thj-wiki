@@ -16,7 +16,7 @@ bookHidden: true
 - Go back to Halas and give Ro’s Breath to Dargon. She will despawn and Arantir Karondor will spawn in her place. Hail Arantir Karondor to receive Arantir’s Ring.
 - Go to Northern Felwithe and find Challice (-10, -260). She is within the Paladin Guild tunnels in a small room. Give Challice Arantir’s Ring and she will give back what appears to be the same item.
 - Go back to Halas again and give Dargon Arantir’s Ring to spawn Arantir Karondor. Say “gnome” to Arantir Karondor to receive Note from Arantir.
-- Go to Butcherblock and find Kandin Firepot (-1500, +2840), give him Note from Arantir, then say “oil” to receive Gnome Sprocket.
+- Go to Butcherblock and find Kandin Firepot (-1500, +2840), give him Note from Arantir, then say “what oil” to receive Gnome Sprocket.
 - Head over to Plane of Fear and look for a broken golem. It supposedly has a 3 day respawn (not verified). Give a broken golem your Gnome Sprocket. This will spawn an enraged golem. Fire spells and melee land best. Kill an enraged golem and loot Green Oil.
 - Go back to Butcherblock. Give Kandin Firepot Green Oil to receive Staff of Gabstik and Note to Arantir.
 
